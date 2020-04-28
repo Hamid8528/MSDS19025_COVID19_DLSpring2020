@@ -31,5 +31,7 @@ resnet with 1 convolution layer freezed: res18_entire1.pth
 resnet with 2 convolution layer freezed:rese18_entire2.pth
 
   
- 
+ # Tools
+ Python
+ Pytorch
  
