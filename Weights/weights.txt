@@ -1,0 +1,17 @@
+The weights for these models can be found on my drive. The link is mentioned below
+
+https://drive.google.com/drive/u/1/folders/1JQlKQaBOmVGK-Vg43cpQgJ2wa7flwsk9
+
+VGG with all convolution layers freezed: vgg16_FC_Only.pth
+
+Resnet18 with all convolution layers freezed: res18_FC_Only.pth
+
+VGG with one convolutoiin layer freezed: vgg16_entire1.pth
+
+VGG with 2 convolution layer freezed: vgg16_entire2.pth
+
+resnet with 1 convolution layer freezed: res18_entire1.pth
+
+resnet with 2 convolution layer freezed:rese18_entire2.pth
+
+  
