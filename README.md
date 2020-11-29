@@ -1,5 +1,5 @@
 # MSDS19025_COVID19_DLSpring2020
-This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes
+This repository contains code and results for COVID-19 classification Project. This Project is only for learning purposes and is not intended to be used for clinical purposes
 
 # Data
 The data for this assignment can be found on the drive through below link
